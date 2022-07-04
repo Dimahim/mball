@@ -1,0 +1,19 @@
+.template-container {
+  max-width: 400px;
+  height: 400px;
+  background-image: url(../../images/qwer.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: auto;
+  box-sizing: border-box;
+  border: 1px solid black;
+  background-size: contain;
+};
+
+
+/* @media screen and (max-width: 376px) {
+  .template-container {
+    max-width: 300px;
+    height: 300px;
+  }
+} */
